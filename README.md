@@ -10,5 +10,7 @@ Run
 ```
 docker-compose up
 ```
+
 In a web browser navigate to http://0.0.0.0:5000/
+
 Refresh to see the hits increase!
